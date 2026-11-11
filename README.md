@@ -17,3 +17,8 @@ Mini games:
     
   Quizz:
     https://github.com/bearlifter/Orrery-Space-Apps
+
+## Versión web
+
+[Probar la aplicación](https://luisvvargas-swe.github.io/proyectos/nasa/). El código de la adaptación para navegador está en `web/`.
+La versión publicada reutiliza el explorador Three.js original y sus recursos fijados al commit `1606b5122d4ac56c9d2a7cf94bef3576403bc7d3`. Presenta tamaños y distancias ilustrativos y controles de enfoque y velocidad orbital.
